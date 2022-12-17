@@ -7,4 +7,5 @@ end
 my_value(a)
 puts a
 
-# 7, because the variable a is outside the scope of the method
+# 7, because the variable a is outside the scope of the method and reassignment
+# does notmutate.
